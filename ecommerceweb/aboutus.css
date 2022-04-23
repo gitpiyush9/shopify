@@ -1,0 +1,28 @@
+#aboutus{
+    border-top: 5px;
+    border-left: 5px;
+    border-right: 5px;
+    border-bottom: 5px;
+    border-color: black;
+    padding: 15%;
+    font-size: small;
+    background-color: antiquewhite;
+    box-sizing:content-box;
+    
+
+}
+
+
+footer{
+    background-color: dimgrey;
+    position: static;
+    
+    
+}
+
+
+#icons{
+    color: blue;
+    padding-left: 10px;
+
+}
